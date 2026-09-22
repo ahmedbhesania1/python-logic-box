@@ -44,7 +44,7 @@ while True:
                 print(f"sum of numbers from {start} to {end} is: {sum}")
                 break
     elif choice==3:
-        print(" exiting...")
+        print("exiting...")
         print("thank you for using the pattern generator and analyzer.")
         break
     else:
